@@ -17,5 +17,5 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "demo" {
-  bucket = "tfc-cli-demo-bucket-123456-dhannya"
+  bucket = "tfc-cli-demo-bucket-111-dhannya"
 }
